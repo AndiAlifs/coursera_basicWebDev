@@ -24,13 +24,13 @@ section {
     background-color: white;
     width: 24%;
     display: inline-block;
-    border: 3px solid black;
+    border: 1px solid black;
 }
 
 section h3 {
     color: white;
-    border-bottom: 3px solid black;
-    border-left: 3px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
     float: right;
     margin: 0px;
     padding: 15px;
@@ -50,10 +50,24 @@ section h3 {
     background-color: brown;
 }
 
+#chicken{
+    background-color: burlywood;
+}
+
+#sushi {
+    background-color: aquamarine;
+}
+
+#beef  {
+    background-color: darksalmon;
+}
+
+
+
 section p {
     clear: right;
     padding: 20px;
     text-align: justify;
 }
 
-@media 
+/* @media  */
